@@ -2,22 +2,22 @@
   "Version": "2017.12.27.1",
   "URL": "http://blackspot.wzcdnservice.com/blackspot/latest/FullClient/",
   "TotalCount": 3,
-  "TotalSize": 1987150709,
+  "TotalSize": 1987218453,
   "FileList": [
     {
       "Name": "LineOfSight-1a.bin",
       "Size": 1565016960,
-      "CheckSum": "73F32E47655DC4ABCCF251F719868FD9"
+      "CheckSum": "D2E09C7C2ABDF7EA62575B21245139C4"
     },
     {
       "Name": "LineOfSight-1b.bin",
-      "Size": 421151219,
-      "CheckSum": "4F51D72349FA8564FA1CC1DC43F3EE43"
+      "Size": 421218963,
+      "CheckSum": "36C225C7821BE712289E0D46A81B4366"
     },
     {
       "Name": "LineOfSight.exe",
       "Size": 982530,
-      "CheckSum": "AEDE95487C23B6D210E320996FB05C00"
+      "CheckSum": "B798CB4BD3141A8A9302A315A640885F"
     }
   ]
 }
